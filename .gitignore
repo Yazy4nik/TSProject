@@ -1,5 +1,6 @@
 StockSharp_Lib
-*.csproj
+TradeStudio/TradeStudio/TradeStudio.csproj
+
 
 #################
 ## Eclipse

@@ -1,4 +1,5 @@
 StockSharp_Lib
+*.csproj
 
 #################
 ## Eclipse

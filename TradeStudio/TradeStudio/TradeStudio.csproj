@@ -167,9 +167,6 @@
     <Reference Include="Npgsql">
       <HintPath>..\..\StockSharp_Lib\Npgsql.dll</HintPath>
     </Reference>
-    <Reference Include="NPOI">
-      <HintPath>..\..\StockSharp_Lib\NPOI.dll</HintPath>
-    </Reference>
     <Reference Include="Ookii.Dialogs.Wpf">
       <HintPath>..\..\StockSharp_Lib\Ookii.Dialogs.Wpf.dll</HintPath>
     </Reference>

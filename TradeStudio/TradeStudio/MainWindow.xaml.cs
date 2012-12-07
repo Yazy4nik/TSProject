@@ -18,6 +18,8 @@ namespace TradeStudio
         {
             QuikTrader q = new QuikTrader(QuikTerminal.GetDefaultPath());
             q.Connect();
+
+
         }
     }
 }
